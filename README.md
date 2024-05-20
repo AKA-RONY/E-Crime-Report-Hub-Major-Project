@@ -57,7 +57,7 @@ NOTE**  By default backend server will run on port 8080, make sure you dont have
 * STEP5: Once the server loads up without any error , it will automatically create tables inside that database.
 * STEP6: After that open your frontend application that is already opened in your browser and explore our website.
 
-## QUICKSHOTS
+
 
 ### ERD
 ![WhatsApp Image 2024-05-20 at 18 09 40_22dda618](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/031f07c9-8121-4297-b453-16c7f54c05bc)
@@ -70,6 +70,25 @@ NOTE**  By default backend server will run on port 8080, make sure you dont have
 
 ### DFD LVL1
 ![ecrhdfdlvl1](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/f33e19dd-9871-4b7d-9b16-2d635dcfd8d6)
+
+
+## QUICKSHOTS
+
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/413a79c4-b87f-45e9-8339-b24c3d08e419)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/701f8f72-ef37-4e01-b19b-a9f3727d1bdb)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/710d271f-df02-4afd-b122-e2cc4ffdf4b8)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/8d3f39f1-c254-4185-8312-23554b98577b)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/2a5d2d4d-44c1-4a45-81d5-359ceb77cb83)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/becf28ef-b964-4cf0-b650-24dba45d00a0)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/838aa8ea-e402-434d-a7bd-02a066a9fa32)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/a6cd879b-e632-4b2e-bb1f-23915999bf2e)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/2567bad5-9177-4004-afd6-8979c175bb6e)
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/423268ec-7d0e-444d-8cb1-c3e4ec406b53)
+
+
+## ABOUT US
+![image](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/9f9ecee0-92fe-4dee-ae92-9f245ce5ba27)
+
 
 
 
