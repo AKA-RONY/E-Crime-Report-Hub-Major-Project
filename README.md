@@ -57,5 +57,22 @@ NOTE**  By default backend server will run on port 8080, make sure you dont have
 * STEP5: Once the server loads up without any error , it will automatically create tables inside that database.
 * STEP6: After that open your frontend application that is already opened in your browser and explore our website.
 
+## QUICKSHOTS
+
+### ERD
+![WhatsApp Image 2024-05-20 at 18 09 40_22dda618](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/031f07c9-8121-4297-b453-16c7f54c05bc)
+
+### DATABASE DESIGN
+![WhatsApp Image 2024-05-20 at 18 45 48_35601b74](https://github.com/AKA-RONY/E-Crime-Report-Hub-Major-Project/assets/67736824/63e4e9e8-805a-42d9-b35c-0d6ea940fd0f)
+
+### DFD LVL 0 | CONTEXT LEVEL
+![ecrh2](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/3c09c9be-ea2c-499f-a805-354c3bb315a1)
+
+### DFD LVL1
+![ecrhdfdlvl1](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/f33e19dd-9871-4b7d-9b16-2d635dcfd8d6)
+
+
+
+
 
       
