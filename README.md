@@ -1,70 +1,38 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-Crime Report Hub: Online FIR Filing and Case Management System
 
-## Available Scripts
+The E-CRIME REPORT HUB represents a technological advancement aimed at revolutionizing the conventional method of filing First Information Reports (FIRs) and managing crime-related incidents. This project endeavors to bridge the gap between victims of crimes and law enforcement agencies by introducing an intuitive and accessible online platform that facilitates seamless FIR filing and efficient case management.
 
-In the project directory, you can run:
+At its core, the E-CRIME REPORT HUB is designed to alleviate the constraints associated with the traditional manual filing process. Leveraging modern web technologies, including React for the frontend, and Spring Boot for the backend, the platform offers users a user-friendly interface for registration, FIR filing, and access to comprehensive crime-related information. Client-side validations are implemented using JavaScript, ensuring the accuracy and completeness of the entered data.
 
-### `npm start`
+The platform's functionality is rooted in its ability to cater to the diverse needs of users. Victims, irrespective of geographical limitations, can register accounts, file FIRs, and seek guidance through informative articles categorized according to various crime types. User registration entails comprehensive validations utilizing JavaScript, ensuring the accuracy and completeness of the entered data.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Central to the platform's architecture is the utilization of MySQL for robust data management, storing user details and FIR records securely. Each filed FIR undergoes meticulous validation against predefined criteria, ensuring the authenticity and completeness of the report.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The project’s testing phase involved rigorous manual testing methodologies encompassing positive and negative scenarios. Positive testing verified the system's response to valid inputs, ensuring successful registration and FIR filing, while negative testing focused on error handling and the system’s behavior when encountering invalid inputs or incomplete data.
 
-### `npm test`
+Future enhancements of the E-CRIME REPORT HUB might include the integration of automated testing methodologies, thereby augmenting the efficiency of the testing process and expanding test coverage. Additionally, potential improvements could involve enhancing user interfaces, refining data validation algorithms, and introducing multi-factor authentication for heightened security.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the realm of law enforcement technology. Through seamless user interactions, robust data management, and comprehensive validations, this platform endeavors to empower victims and law enforcement agencies in addressing and managing crimes effectively in a digitally connected world.
 
-### `npm run build`
+## Tech Stack
+* Java EE
+* MySQL Database
+* Node.js
+* React, CSS, JavaScript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Libraries and Packages
+* React libraries
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* Spring Web
+* MySQL driver
+* CSS-Bootstrap
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tools
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Spring Tool Suite (STS)
+* Visual Studio Code (VSCode)
+* Postman for API testing
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
