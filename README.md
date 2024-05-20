@@ -39,23 +39,23 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 
 
 ## HOW TO RUN THE FRONTEND APPLICATION
-*STEP1: Download code zip file
-*STEP2: Extract in some Directory (note**  Backend code included in the same zip file)
-*STEP3: Make sure you have node.js installed properly
-*STEP4: Open the extracted folder on VsCode > go to new terminal > type "npm start"   
+* STEP1: Download code zip file
+* STEP2: Extract in some Directory (note**  Backend code included in the same zip file)
+* STEP3: Make sure you have node.js installed properly
+* STEP4: Open the extracted folder on VsCode > go to new terminal > type "npm start"   
 Caution: While running the application for the first time it will give error like 'react-scripts' is not recognized as an internal or external command . To solve this simply type 'npm install react-scripts --save'
-*STEP5: re-run the application using npm-start , it will start a dev server on port 3000... A new Website pops up on the browser.
+* STEP5: re-run the application using npm-start , it will start a dev server on port 3000... A new Website pops up on the browser.
 
 
 ## HOW TO START THE BACKEND SERVER
-*STEP1: Open STS(Spring tool Suite)> import project from directory> import the folder 'fullstack backend' that is present inside E-Crime-Report-Hub-Major-Project
+* STEP1: Open STS(Spring tool Suite)> import project from directory> import the folder 'fullstack backend' that is present inside E-Crime-Report-Hub-Major-Project
 folder.
-*STEP2: After importing the directory wait for sometime till STS completes the background build and verification.
-*STEP3: Go to project Directory and run as spring boot app.
+* STEP2: After importing the directory wait for sometime till STS completes the background build and verification.
+* STEP3: Go to project Directory and run as spring boot app.
 NOTE**  By default backend server will run on port 8080, make sure you dont have any application running on same port i.e 8080 or it will give an error. To fix this you need to manually make the changes of port number in your frontend application , as well as on application properties. 
-*STEP4: make the necessary database connection changes like database name,password, ports (note** create a database as ecrh_major beforehand)
-*STEP5: Once the server loads up without any error , it will automatically create tables inside that database.
-STEP6: After that open your frontend application that is already opened in your browser and explore our website.
+* STEP4: make the necessary database connection changes like database name,password, ports (note** create a database as ecrh_major beforehand)
+* STEP5: Once the server loads up without any error , it will automatically create tables inside that database.
+* STEP6: After that open your frontend application that is already opened in your browser and explore our website.
 
 
       
